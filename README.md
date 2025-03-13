@@ -47,7 +47,7 @@ If you find QIGA useful for your research, please cite our paper as follows (Sti
 @inproceedings{galavani2025qiga,
   title={QIGA: Quantum-Inspired Genetic Algorithm for Dynamic Scheduling in Mobile Edge Computing},
   author={Galavani, Sadra and Younesi, Abolfazl and Ansari, Mohsen},
-  booktitle={International Conference on Advanced Computing and Telecommunications},
+  booktitle={Proceedings of the 2025 29th International Computer Conference, CSICC},
   year={2025},
 }
 ```
