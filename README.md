@@ -39,7 +39,7 @@ Our experiments were conducted under varied burst MEC scenarios. The results dem
 - **Latency:** Achieved reductions of up to 69.9%.
 
 ---
-
+<!--
 ## Citation
 
 If you find QIGA useful for your research, please cite our paper as follows (Still waiting for doi ):
@@ -51,7 +51,7 @@ If you find QIGA useful for your research, please cite our paper as follows (Sti
   year={2025},
 }
 ```
-
+-->
 ---
 
 ## Contributing
