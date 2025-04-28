@@ -39,19 +39,24 @@ Our experiments were conducted under varied burst MEC scenarios. The results dem
 - **Latency:** Achieved reductions of up to 69.9%.
 
 ---
-<!--
+
 ## Citation
 
 If you find QIGA useful for your research, please cite our paper as follows (Still waiting for doi ):
 ```bibtex
-@inproceedings{galavani2025qiga,
-  title={QIGA: Quantum-Inspired Genetic Algorithm for Dynamic Scheduling in Mobile Edge Computing},
+@INPROCEEDINGS{10967435,
   author={Galavani, Sadra and Younesi, Abolfazl and Ansari, Mohsen},
-  booktitle={Proceedings of the 2025 29th International Computer Conference, CSICC},
+  booktitle={2025 29th International Computer Conference, Computer Society of Iran (CSICC)}, 
+  title={QIGA: Quantum-Inspired Genetic Algorithm for Dynamic Scheduling in Mobile Edge Computing}, 
   year={2025},
-}
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Energy consumption;Quantum computing;Multi-access edge computing;Processor scheduling;Dynamic scheduling;Resource management;Optimization;Tuning;Genetic algorithms;Convergence;Quantum Computing;Scheduling;Mobile Edge Computing;Multi Objective Optimization},
+  doi={10.1109/CSICC65765.2025.10967435}}
+
 ```
--->
+
 ---
 
 ## Contributing
