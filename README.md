@@ -42,7 +42,7 @@ Our experiments were conducted under varied burst MEC scenarios. The results dem
 
 ## Citation
 
-If you find QIGA useful for your research, please cite our paper as follows (Still waiting for doi ):
+If you find QIGA useful for your research, please cite our paper as follows:
 ```bibtex
 @INPROCEEDINGS{10967435,
   author={Galavani, Sadra and Younesi, Abolfazl and Ansari, Mohsen},
